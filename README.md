@@ -1,1 +1,0 @@
-# student_manager_c-
